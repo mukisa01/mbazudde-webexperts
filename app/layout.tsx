@@ -13,6 +13,9 @@ export const metadata: Metadata = {
     "web applications",
     "digital solutions",
   ],
+  verification: {
+    google: "_RU8rcNYi7nZvtLiNcH1wjjAijB4QEw4tmz9Tmwma-I",
+  },
 };
 
 export default function RootLayout({
